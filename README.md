@@ -1,2 +1,2 @@
 # deep-nmt
-Source code for "Deep Transformer Modeling via Multiple Grouping of Latent Feature Encoders for Neural Machine Translation"
+Source code for "Deep Transformer Modeling via Grouping Skip Connection for Neural Machine Translation"
